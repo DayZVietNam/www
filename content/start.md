@@ -1,13 +1,9 @@
 ---
-title: Start here
+title: START HERE!
 description: How to connect to the server, how to name your characters.
 date: 2025-03-31
-thumbnail:
-  src: "img/placeholder.png"
-  visibility:
-    - list
 authorbox: false
-sidebar: false
+sidebar: true
 pager: false
 weight: 1
 menu: main

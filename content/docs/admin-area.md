@@ -5,8 +5,6 @@ date: 2025-03-31
 authorbox: false
 sidebar: false
 pager: false
-weight: 7
-menu: main
 ---
 
 # Admins Area
