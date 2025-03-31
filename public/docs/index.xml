@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documentation on DayZ Viet Nam</title>
+    <link>//localhost:1313/docs/</link>
+    <description>Recent content in Documentation on DayZ Viet Nam</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 31 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Start here</title>
+      <link>//localhost:1313/docs/start/</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/start/</guid>
+      <description>&lt;p&gt;Welcome to the DayZ Viet Nam server. Here you can find the server connect information, guide on change your character&amp;rsquo;s name in game, FAQ.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Customization</title>
+      <link>//localhost:1313/docs/customization/</link>
+      <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/customization/</guid>
+      <description>&lt;p&gt;Customization page describes common Mainroad configuration parameters which can be specified via configuration file or&#xA;via Front Matter section. That includes logo section tuning, adding a sidebar with widgets, adjusting highlight color,&#xA;and more.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Admin area</title>
+      <link>//localhost:1313/docs/admin-area/</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/admin-area/</guid>
+      <description>&lt;h1 id=&#34;admins-area&#34;&gt;Admins Area&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>Frequently asked questions (FAQ)</title>
+      <link>//localhost:1313/docs/faq/</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/faq/</guid>
+      <description>&lt;p&gt;Browse this FAQ page to find answers to frequently asked questions that have not been covered elsewhere&#xA;in the documentation.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

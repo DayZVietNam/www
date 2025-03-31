@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DayZ Viet Nam</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on DayZ Viet Nam</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 31 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Start here</title>
+      <link>//localhost:1313/docs/start/</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/start/</guid>
+      <description>&lt;p&gt;Welcome to the DayZ Viet Nam server. Here you can find the server connect information, guide on change your character&amp;rsquo;s name in game, FAQ.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Customization</title>
+      <link>//localhost:1313/docs/customization/</link>
+      <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/customization/</guid>
+      <description>&lt;p&gt;Customization page describes common Mainroad configuration parameters which can be specified via configuration file or&#xA;via Front Matter section. That includes logo section tuning, adding a sidebar with widgets, adjusting highlight color,&#xA;and more.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Admin area</title>
+      <link>//localhost:1313/docs/admin-area/</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/admin-area/</guid>
+      <description>&lt;h1 id=&#34;admins-area&#34;&gt;Admins Area&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>Frequently asked questions (FAQ)</title>
+      <link>//localhost:1313/docs/faq/</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/docs/faq/</guid>
+      <description>&lt;p&gt;Browse this FAQ page to find answers to frequently asked questions that have not been covered elsewhere&#xA;in the documentation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>About DayZ Viet Nam We are a group of DayZ game lovers in Viet Nam. We host a few gameservers for free as a tribute to the community.&#xA;Main gameserver features:&#xA;Expansion Mods Players-vs-Environment (PVE) Traders &amp;amp; Safe Zones Airdrops Fun, chill gameplay FPS+, enjoy powerful server performance Free to Play Active 🎮 Play Now 🎮&#xA;Why English? Vietnamese will come later, site will be multilang.&#xA;About our tech stack &amp;amp; providers Our website builds with Hugo static site generator and Mainroad theme.</description>
+    </item>
+    <item>
+      <title>(Hu)go Template Primer</title>
+      <link>//localhost:1313/archived/hugo-template-primer/</link>
+      <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/archived/hugo-template-primer/</guid>
+      <description>&lt;p&gt;Hugo uses the excellent &lt;a href=&#34;https://golang.org/&#34;&gt;Go&lt;/a&gt; &lt;a href=&#34;https://golang.org/pkg/html/template/&#34;&gt;html/template&lt;/a&gt; library for&#xA;its template engine. It is an extremely lightweight engine that provides a very&#xA;small amount of logic. In our experience that it is just the right amount of&#xA;logic to be able to create a good static website. If you have used other&#xA;template systems from different languages or frameworks you will find a lot of&#xA;similarities in Go templates.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Basic HTML Elements</title>
+      <link>//localhost:1313/archived/basic-elements/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/archived/basic-elements/</guid>
+      <description>&lt;p&gt;The main purpose of this article is to make sure that all basic HTML Elements are decorated with CSS so as to not miss any possible elements when creating new themes for Hugo.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Getting Started with Hugo</title>
+      <link>//localhost:1313/archived/getting-started-with-hugo/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/archived/getting-started-with-hugo/</guid>
+      <description>Step 1. Install Hugo Go to Hugo releases and download the appropriate version for your OS and architecture.&#xA;Save it somewhere specific as we will be using it in the next step.&#xA;More complete instructions are available at Install Hugo&#xA;Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.&#xA;Follow the following steps:&#xA;Clone the Hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313 Corresponding pseudo commands:</description>
+    </item>
+  </channel>
+</rss>
